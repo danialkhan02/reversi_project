@@ -8,7 +8,6 @@
 #include "project_reversi_skeleton.h" // DO NOT modify this line
 #include "lab8part2lib.h"
 #include <stdio.h>
-// Note: You may want to add more function declarations here
 // =========   Function declaration  ==========
 
 // ========= Function implementation ==========
